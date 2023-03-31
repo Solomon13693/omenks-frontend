@@ -1,0 +1,99 @@
+@media screen and (max-width: 767px) {
+    header .style-4 {
+        text-align: center !important;
+        margin: auto !important;
+    }
+}
+
+.feat-dark {
+    position: relative;
+    background: #15171f;
+    padding: 120px 0;
+}
+
+.feat-dark {
+    position: relative;
+    background: #15171f;
+    padding: 120px 0;
+}
+
+.feat-dark .pattern {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-position: center top;
+}
+
+.feat-dark .item .icon {
+    margin-top: 10px;
+}
+
+.feat-dark .item .icon span {
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    text-align: center;
+    font-size: 25px;
+    border: 1px solid #eee;
+    border-radius: 15px;
+}
+
+.feat-dark .item .cont {
+    padding-left: 30px;
+}
+
+.feat-dark .item .cont h6 {
+    margin-bottom: 10px;
+}
+
+.feat-dark .item .cont p {
+    font-size: 13px;
+}
+
+.navbar-toggler{
+    border: none !important;
+}
+
+@media (max-width: 991px) {
+    .navbar.style-14 .nav-link{
+        margin: 10px 15px !important;
+    }
+    .navbar-collapse {
+        padding-top: 50px !important;
+    }
+}
+
+.navbar-toggler:focus{
+    box-shadow: none !important;
+}
+
+footer.style-4 .foot .links .icon li{
+    padding: 1px !important
+}
+
+  
+  .swiper {
+    width: 100%;
+    height: 500px;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
